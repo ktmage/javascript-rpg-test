@@ -1,0 +1,18 @@
+body {
+    /* background-color: aqua; */
+    margin: 0;
+    padding: 0;
+}
+
+#canvas_wrap {
+    /* background-color: aqua; */
+    width: 1024px;
+    height: 768px;
+	margin:auto;
+}
+#canvas_wrap_debug {
+    /* background-color: aqua; */
+    width: 1024px;
+    height: 768px;
+	margin:auto;
+}

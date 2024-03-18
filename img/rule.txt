@@ -1,0 +1,6 @@
+★＝Camera上の描画なので*3で引き延ばす
+
+BattleField	342*164 ★
+Enemy_S		
+Enemy_M		80*80 ★
+Enemy_L		
